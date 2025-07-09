@@ -1,0 +1,12 @@
+{
+  "name": "top-basic-information-site",
+  "version": "1.0.0",
+  "description": "This website is part of Odin Project to learn about Nodejs. It is a simple code to serve index, about, contact and error page",
+  "license": "ISC",
+  "author": "Steward Righteous",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
